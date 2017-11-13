@@ -1,6 +1,6 @@
 {
   "name": "react-canvas-chart",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "react canvas chart",
   "main": "lib/index.js",
   "scripts": {
@@ -8,7 +8,8 @@
     "prepublish": "npm run build"
   },
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "https://github.com/xuallen/react-canvas-chart.git"
   },
   "keywords": [
     "canvas",
