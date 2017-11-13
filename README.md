@@ -10,6 +10,7 @@ npm install react-canvas-chart
 | 组件        | 说明           | props  | 
 | ------------- |-------------| -----|
 | CircleChart      | 环形数据显示，可用于显示百分比等 | options、height、width |
+| Clock      | canvas时钟 | color、height、width |
 
 
 ### 默认参数
