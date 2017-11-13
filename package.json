@@ -1,0 +1,29 @@
+{
+  "name": "react-canvas-chart",
+  "version": "0.1.0",
+  "description": "react canvas chart",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "babel src -d lib",
+    "prepublish": "npm run build"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "canvas",
+    "chart",
+    "react"
+  ],
+  "author": "xuallen20@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "babel-plugin-istanbul": "^2.0.1",
+    "babel-preset-es2015": "^6.14.0",
+    "babel-preset-react": "^6.24.1",
+    "react": "^15.6.1"
+  }
+}
