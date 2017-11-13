@@ -50,7 +50,7 @@ class Page extends Component {
 export default Page;
 ```
 ### 预览
-![image](https://github.com/xuallen/react-canvas-chart/blob/master/screenshots/circle-chart.png =200x200)  
+![image](https://github.com/xuallen/react-canvas-chart/blob/master/screenshots/circle-chart.png)  
 
-![image](https://github.com/xuallen/react-canvas-chart/blob/master/screenshots/clock.png =200x200)  
+![image](https://github.com/xuallen/react-canvas-chart/blob/master/screenshots/clock.png)
 
